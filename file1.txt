@@ -1,9 +1,10 @@
 hello world
 
 welcome to git ...........
-feature 1 -login - team member for checking  3 way merging 
+Feature 1 -login - team member for checking  3 way merging 
 
-feature 2 -logout
-bug -fixed
-bug 3 - fixed
+Feature 2 -logout
+Bug ->fixed
+Bug 3 -> fixed
 
+chage added for rebase test
