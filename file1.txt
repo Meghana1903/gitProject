@@ -5,5 +5,5 @@ feature 1 -login - team member for checking  3 way merging
 
 feature 2 -logout
 bug -fixed
-
+bug 3 - fixed
 
